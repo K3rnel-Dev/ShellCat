@@ -10,7 +10,7 @@
 
 </br>
 
-<img alt="shellcat" align="center" src="https://github.com/K3rnel-Dev/ShellCat/blob/main/screens/shellcat_printscreen.jpg">
+<img alt="shellcat" align="center" src="https://github.com/K3rnel-Dev/ShellCat/blob/main/screens/shellcat_printscreen.png">
 
 
 ## Setup
